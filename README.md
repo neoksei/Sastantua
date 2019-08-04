@@ -1,1 +1,1 @@
-[USAGE]: Sastantua.exe <some number>
+USAGE: Sastantua.exe [some number]
